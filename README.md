@@ -21,4 +21,4 @@ A Memcached cluster that caches supplier data from Amazon Aurora Serverless for 
 An AWS Elastic Beanstalk environment and application that runs an EC2 instance named MyEnv. The EC2 instance hosts a Docker container created from the Docker image that is stored in Amazon ECR.
 An Aurora Serverless database running MySQL on Amazon RDS, which contains the supplierdb database, which stores coffee supplier information.
 
-![Uploading template1-designer (3).png…]()
+![template1-designer (3)](https://github.com/jipx/pythonnodejs-lab-9.2/assets/4178277/1de36d62-0d15-430d-9f6c-a24620e7ae9c)
